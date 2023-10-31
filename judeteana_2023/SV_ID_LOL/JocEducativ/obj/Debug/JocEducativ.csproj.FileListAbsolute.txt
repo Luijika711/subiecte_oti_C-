@@ -1,0 +1,12 @@
+C:\Users\luiji\repos\subiecte_oti_C-\judeteana_2023\SV_ID_LOL\JocEducativ\bin\Debug\JocEducativ.mdf
+C:\Users\luiji\repos\subiecte_oti_C-\judeteana_2023\SV_ID_LOL\JocEducativ\bin\Debug\JocEducativ_log.ldf
+C:\Users\luiji\repos\subiecte_oti_C-\judeteana_2023\SV_ID_LOL\JocEducativ\bin\Debug\JocEducativ.exe.config
+C:\Users\luiji\repos\subiecte_oti_C-\judeteana_2023\SV_ID_LOL\JocEducativ\bin\Debug\JocEducativ.exe
+C:\Users\luiji\repos\subiecte_oti_C-\judeteana_2023\SV_ID_LOL\JocEducativ\bin\Debug\JocEducativ.pdb
+C:\Users\luiji\repos\subiecte_oti_C-\judeteana_2023\SV_ID_LOL\JocEducativ\obj\Debug\JocEducativ.csproj.AssemblyReference.cache
+C:\Users\luiji\repos\subiecte_oti_C-\judeteana_2023\SV_ID_LOL\JocEducativ\obj\Debug\JocEducativ.Form1.resources
+C:\Users\luiji\repos\subiecte_oti_C-\judeteana_2023\SV_ID_LOL\JocEducativ\obj\Debug\JocEducativ.Properties.Resources.resources
+C:\Users\luiji\repos\subiecte_oti_C-\judeteana_2023\SV_ID_LOL\JocEducativ\obj\Debug\JocEducativ.csproj.GenerateResource.cache
+C:\Users\luiji\repos\subiecte_oti_C-\judeteana_2023\SV_ID_LOL\JocEducativ\obj\Debug\JocEducativ.csproj.CoreCompileInputs.cache
+C:\Users\luiji\repos\subiecte_oti_C-\judeteana_2023\SV_ID_LOL\JocEducativ\obj\Debug\JocEducativ.exe
+C:\Users\luiji\repos\subiecte_oti_C-\judeteana_2023\SV_ID_LOL\JocEducativ\obj\Debug\JocEducativ.pdb
